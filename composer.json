@@ -1,0 +1,19 @@
+{
+    "name": "websvc/php-rocketchat-webhooks",
+        "type": "library",
+    "description": "A PHP interface to send requests to incoming webhooks.",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nelson Dias",
+            "homepage": "https://github.com/websvcPT/php-rocketchat-webhooks"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PhpRocketChatWebhooks\\": "src/"
+        }
+    }
+}
