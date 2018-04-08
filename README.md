@@ -5,6 +5,9 @@ Tested with Rocket Chat server  v 0.63.0
 
 ## Install
 
+```bash
+composer require websvc/php-rocketchat-webhooks 1.0.0
+```
 
 ## Rocket Chat setup
 
