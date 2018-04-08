@@ -1,5 +1,5 @@
 # php-rocketchat-webhooks
-Send requests to Rocket Chat Incomming Webhooks
+Send requests to Rocket Chat Incoming Webhooks
 
 Tested with Rocket Chat server  v 0.63.0
 

@@ -1,7 +1,8 @@
 {
     "name": "websvc/php-rocketchat-webhooks",
-        "type": "library",
-    "description": "A PHP interface to send requests to incoming webhooks.",
+    "type": "library",
+    "description": "A PHP interface to send requests to Rocket Chat incoming webhooks.",
+    "version": "1.0.0",
     "require": {
     },
     "license": "MIT",
