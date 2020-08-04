@@ -33,3 +33,9 @@ $client->sendRequest("Hello World!", [
                     'image_url' => "https://www.google.pt/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
                 ]);
 ```
+
+# Buy me a cofee
+
+If You'd like to thank me you can buy me a cofee.  Cofee is never too much :) 
+
+https://www.buymeacoffee.com/websvc
